@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String name = "abdou";
         int age = 21;
+        String gender  = "male";
     }
 }

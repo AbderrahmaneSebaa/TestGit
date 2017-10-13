@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         String name = "abdou";
         int age = 21;
         String gender  = "male";
+        String Job = "founder of SEBAA company";
     }
 }
